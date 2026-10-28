@@ -28,7 +28,7 @@ Same file, versioned name: [NoneOS-R11.37.apbx](https://github.com/LazyDevss/Non
 
 **What it is:** The NoneOS control panel (WinUI 3). After a NoneOS install it lets you review options, apply recommended tweaks, install common software, and manage post-install tools. You can also download it on its own if you already run NoneOS.
 
-**Current version:** **0.1.39**
+**Current version:** **0.1.40**
 
 **Download:** [NoneToolbox-win-x64.zip](https://github.com/LazyDevss/NoneOS-Releases/releases/download/toolbox/NoneToolbox-win-x64.zip)
 
