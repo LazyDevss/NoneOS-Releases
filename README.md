@@ -54,6 +54,8 @@ Release: [nonealt](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/non
 
 ## NoneHz — USB controller polling rate
 
+<img src="assets/nonehz-logo.png" width="48" alt="NoneHz logo">
+
 <img src="assets/nonehz.png" width="480" alt="NoneHz">
 
 **What it is:** A small tool to raise the USB polling rate of wired game controllers (DualShock 4, DualSense, DualSense Edge, and other wired HID pads). Live Hz meter, Before/After checks, and restore to stock. Front end for [hidusbf](https://github.com/LordOfMice/hidusbf) (SweetLow) with Microsoft-signed driver builds.
@@ -83,6 +85,8 @@ Release: [noneboost](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/n
 ---
 
 ## FIVEMOS — FiveM graphics pack
+
+<img src="assets/fivemos.png" width="48" alt="FIVEMOS logo">
 
 <img src="assets/fivemos-ui.png" width="560" alt="NoneOS FiveM Apply / FIVEMOS">
 
