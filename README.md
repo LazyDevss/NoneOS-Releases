@@ -10,11 +10,11 @@ Public downloads only — **no source code** here. Each product has a **fixed ta
 
 **What it is:** An [AME Wizard](https://ameliorated.io) playbook that tunes a fresh Windows install for competitive gaming — less background work, stronger privacy defaults, performance settings, and optional extras. Windows stays real and reversible. NoneOS Toolbox and the other apps below are downloaded during the install when you choose them.
 
-**Current version:** **R11.36**
+**Current version:** **R11.37**
 
 **Download:** [NoneOS.apbx](https://github.com/LazyDevss/NoneOS-Releases/releases/download/noneos/NoneOS.apbx)
 
-Same file, versioned name: [NoneOS-R11.36.apbx](https://github.com/LazyDevss/NoneOS-Releases/releases/download/noneos/NoneOS-R11.36.apbx) · release notes: [noneos](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/noneos)
+Same file, versioned name: [NoneOS-R11.37.apbx](https://github.com/LazyDevss/NoneOS-Releases/releases/download/noneos/NoneOS-R11.37.apbx) · release notes: [noneos](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/noneos)
 
 **How to install:** Download the `.apbx` → open AME Wizard → drag the file in → choose options → keep internet on during the run.
 
@@ -28,7 +28,7 @@ Same file, versioned name: [NoneOS-R11.36.apbx](https://github.com/LazyDevss/Non
 
 **What it is:** The NoneOS control panel (WinUI 3). After a NoneOS install it lets you review options, apply recommended tweaks, install common software, and manage post-install tools. You can also download it on its own if you already run NoneOS.
 
-**Current version:** **0.1.38**
+**Current version:** **0.1.39**
 
 **Download:** [NoneToolbox-win-x64.zip](https://github.com/LazyDevss/NoneOS-Releases/releases/download/toolbox/NoneToolbox-win-x64.zip)
 
@@ -44,7 +44,7 @@ Release: [toolbox](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/too
 
 **What it is:** An always-on replay buffer for Windows. It sits in the tray, records quietly with your GPU’s hardware encoder, and one hotkey (`Alt+F10`) saves the last few minutes as an MP4. No account, no network. Optional FPS/latency overlay.
 
-**Current version:** **1.0.2**
+**Current version:** **1.0.3**
 
 **Download:** [NoneAlt-Setup.exe](https://github.com/LazyDevss/NoneOS-Releases/releases/download/nonealt/NoneAlt-Setup.exe)
 
@@ -76,7 +76,7 @@ Release: [nonehz](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/none
 
 **What it is:** A small tray app that watches for the games you add. While a game runs it can raise process priority, set a 0.5 ms timer resolution, switch to a max power plan, and optionally pause idle services or soft-disable Defender — then put everything back when the game closes. No injection, no drivers, one small exe.
 
-**Current version:** **1.1.3**
+**Current version:** **1.1.4**
 
 **Download:** [NoneBoost.exe](https://github.com/LazyDevss/NoneOS-Releases/releases/download/noneboost/NoneBoost.exe)
 
@@ -92,7 +92,7 @@ Release: [noneboost](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/n
 
 **What it is:** An optional FiveM graphics/settings pack (ReShade, citizen overlays, mods, captured settings/profile). Works with or without a full NoneOS install. Run **NoneOS FiveM Apply** after FiveM is installed.
 
-**Current version:** **1.0.0**
+**Current version:** **1.0.1**
 
 **Download:** [FIVEMOS.zip](https://github.com/LazyDevss/NoneOS-Releases/releases/download/fivem/FIVEMOS.zip)
 
