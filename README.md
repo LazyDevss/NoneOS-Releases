@@ -10,11 +10,11 @@ Public downloads only — **no source code** here. Each product has a **fixed ta
 
 **What it is:** An [AME Wizard](https://ameliorated.io) playbook that tunes a fresh Windows install for competitive gaming — less background work, stronger privacy defaults, performance settings, and optional extras. Windows stays real and reversible. NoneOS Toolbox and the other apps below are downloaded during the install when you choose them.
 
-**Current version:** **R11.37**
+**Current version:** **R11.39**
 
-**Download:** [NoneOS.apbx](https://github.com/LazyDevss/NoneOS-Releases/releases/download/noneos/NoneOS.apbx)
+**Download:** [NoneOS.apbx](https://github.com/LazyDevss/NoneOS-Releases/releases/latest/download/NoneOS.apbx)
 
-Same file, versioned name: [NoneOS-R11.37.apbx](https://github.com/LazyDevss/NoneOS-Releases/releases/download/noneos/NoneOS-R11.37.apbx) · release notes: [noneos](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/noneos)
+Release notes: [noneos](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/noneos)
 
 **How to install:** Download the `.apbx` → open AME Wizard → drag the file in → choose options → keep internet on during the run.
 
@@ -114,7 +114,7 @@ Release: [directx](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/dir
 
 | Product | Direct download |
 |---|---|
-| NoneOS | https://github.com/LazyDevss/NoneOS-Releases/releases/download/noneos/NoneOS.apbx |
+| NoneOS | https://github.com/LazyDevss/NoneOS-Releases/releases/latest/download/NoneOS.apbx |
 | NoneOS Toolbox | https://github.com/LazyDevss/NoneOS-Releases/releases/download/toolbox/NoneToolbox-win-x64.zip |
 | NoneAlt | https://github.com/LazyDevss/NoneOS-Releases/releases/download/nonealt/NoneAlt-Setup.exe |
 | NoneHz | https://github.com/LazyDevss/NoneOS-Releases/releases/download/nonehz/NoneHz.exe |
