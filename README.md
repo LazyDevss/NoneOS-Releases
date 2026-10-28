@@ -22,7 +22,9 @@ Same file, versioned name: [NoneOS-R11.36.apbx](https://github.com/LazyDevss/Non
 
 ## NoneOS Toolbox — post-install control panel
 
-<img src="assets/toolbox.png" width="128" alt="NoneOS Toolbox">
+<img src="assets/toolbox.png" width="48" alt="NoneOS Toolbox logo">
+
+<img src="assets/toolbox-ui.png" width="640" alt="NoneOS Toolbox">
 
 **What it is:** The NoneOS control panel (WinUI 3). After a NoneOS install it lets you review options, apply recommended tweaks, install common software, and manage post-install tools. You can also download it on its own if you already run NoneOS.
 
@@ -36,7 +38,9 @@ Release: [toolbox](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/too
 
 ## NoneAlt — instant replay buffer
 
-<img src="assets/nonealt.png" width="128" alt="NoneAlt">
+<img src="assets/nonealt.png" width="48" alt="NoneAlt logo">
+
+<img src="assets/nonealt-ui.png" width="480" alt="NoneAlt">
 
 **What it is:** An always-on replay buffer for Windows. It sits in the tray, records quietly with your GPU’s hardware encoder, and one hotkey (`Alt+F10`) saves the last few minutes as an MP4. No account, no network. Optional FPS/latency overlay.
 
@@ -64,7 +68,9 @@ Release: [nonehz](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/none
 
 ## NoneBoost — quiet game booster
 
-<img src="assets/noneboost.png" width="128" alt="NoneBoost">
+<img src="assets/noneboost.png" width="48" alt="NoneBoost logo">
+
+<img src="assets/noneboost-ui.png" width="420" alt="NoneBoost">
 
 **What it is:** A small tray app that watches for the games you add. While a game runs it can raise process priority, set a 0.5 ms timer resolution, switch to a max power plan, and optionally pause idle services or soft-disable Defender — then put everything back when the game closes. No injection, no drivers, one small exe.
 
@@ -78,7 +84,7 @@ Release: [noneboost](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/n
 
 ## FIVEMOS — FiveM graphics pack
 
-> **Needs a screenshot** — no product image was found in the private repo or Desktop project. Placeholder until one is provided or captured from the VM.
+<img src="assets/fivemos-ui.png" width="560" alt="NoneOS FiveM Apply / FIVEMOS">
 
 **What it is:** An optional FiveM graphics/settings pack (ReShade, citizen overlays, mods, captured settings/profile). Works with or without a full NoneOS install. Run **NoneOS FiveM Apply** after FiveM is installed.
 
