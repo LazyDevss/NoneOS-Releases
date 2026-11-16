@@ -100,7 +100,7 @@ Release: [nonebright](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/
 
 **What it is:** A snipping tool that can replace Windows Snipping Tool (Win+Shift+S). Capture, annotate, copy text, and translate.
 
-**Current version:** **0.3.0**
+**Current version:** **0.3.2**
 
 **Download:** [NoneSnip.exe](https://github.com/LazyDevss/NoneOS-Releases/releases/download/nonesnip/NoneSnip.exe)
 
