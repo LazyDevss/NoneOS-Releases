@@ -44,9 +44,9 @@ Release: [toolbox](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/too
 
 **What it is:** An always-on replay buffer for Windows. It sits in the tray, records quietly with your GPU’s hardware encoder, and one hotkey (`Alt+F10`) saves the last few minutes as an MP4. No account, no network. Optional FPS/latency overlay.
 
-**Current version:** **1.0.3**
+**Current version:** **1.0.4** (Rust)
 
-**Download:** [NoneAlt-Setup.exe](https://github.com/LazyDevss/NoneOS-Releases/releases/download/nonealt/NoneAlt-Setup.exe)
+**Download:** [NoneAlt.exe](https://github.com/LazyDevss/NoneOS-Releases/releases/download/nonealt/NoneAlt.exe)
 
 Release: [nonealt](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/nonealt)
 
@@ -76,11 +76,45 @@ Release: [nonehz](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/none
 
 **What it is:** A small tray app that watches for the games you add. While a game runs it can raise process priority, set a 0.5 ms timer resolution, switch to a max power plan, and optionally pause idle services or soft-disable Defender — then put everything back when the game closes. No injection, no drivers, one small exe.
 
-**Current version:** **1.1.4**
+**Current version:** **1.1.5**
 
 **Download:** [NoneBoost.exe](https://github.com/LazyDevss/NoneOS-Releases/releases/download/noneboost/NoneBoost.exe)
 
 Release: [noneboost](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/noneboost)
+
+---
+
+## NoneBright — monitor brightness
+
+**What it is:** A small tray app for DDC/CI monitor brightness. It refreshes the monitor list when a display is connected, disconnected, or powered on or off.
+
+**Current version:** **1.1.2**
+
+**Download:** [NoneBright.exe](https://github.com/LazyDevss/NoneOS-Releases/releases/download/nonebright/NoneBright.exe)
+
+Release: [nonebright](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/nonebright)
+
+---
+
+## NoneSnip — snipping tool
+
+**What it is:** A snipping tool that can replace Windows Snipping Tool (Win+Shift+S). Capture, annotate, copy text, and translate.
+
+**Current version:** **0.3.0**
+
+**Download:** [NoneSnip.exe](https://github.com/LazyDevss/NoneOS-Releases/releases/download/nonesnip/NoneSnip.exe)
+
+Release: [nonesnip](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/nonesnip)
+
+---
+
+## NView — image and video viewer
+
+**Current version:** **0.1.1**
+
+**Download:** [NView.exe](https://github.com/LazyDevss/NoneOS-Releases/releases/download/nview/NView.exe)
+
+Release: [nview](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/nview)
 
 ---
 
@@ -116,9 +150,12 @@ Release: [directx](https://github.com/LazyDevss/NoneOS-Releases/releases/tag/dir
 |---|---|
 | NoneOS | https://github.com/LazyDevss/NoneOS-Releases/releases/latest/download/NoneOS.apbx |
 | NoneOS Toolbox | https://github.com/LazyDevss/NoneOS-Releases/releases/download/toolbox/NoneToolbox-win-x64.zip |
-| NoneAlt | https://github.com/LazyDevss/NoneOS-Releases/releases/download/nonealt/NoneAlt-Setup.exe |
+| NoneAlt | https://github.com/LazyDevss/NoneOS-Releases/releases/download/nonealt/NoneAlt.exe |
 | NoneHz | https://github.com/LazyDevss/NoneOS-Releases/releases/download/nonehz/NoneHz.exe |
 | NoneBoost | https://github.com/LazyDevss/NoneOS-Releases/releases/download/noneboost/NoneBoost.exe |
+| NoneBright | https://github.com/LazyDevss/NoneOS-Releases/releases/download/nonebright/NoneBright.exe |
+| NoneSnip | https://github.com/LazyDevss/NoneOS-Releases/releases/download/nonesnip/NoneSnip.exe |
+| NView | https://github.com/LazyDevss/NoneOS-Releases/releases/download/nview/NView.exe |
 | FIVEMOS | https://github.com/LazyDevss/NoneOS-Releases/releases/download/fivem/FIVEMOS.zip |
 | DirectX (dependency) | https://github.com/LazyDevss/NoneOS-Releases/releases/download/directx/directx_Jun2010_redist.exe |
 
